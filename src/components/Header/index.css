@@ -1,0 +1,32 @@
+.bg-container {
+  display: flex;
+  background-color: white;
+  height: 30vh;
+  width: 100vh;
+}
+.Wave {
+  display: flex;
+}
+.image {
+  height: 50px;
+  width: 50px;
+  padding-left: 10px;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+}
+.container {
+  display: flex;
+}
+.item-list {
+  list-style-type: none;
+}
+.link {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+}
